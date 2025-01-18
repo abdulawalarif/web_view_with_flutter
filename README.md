@@ -1,16 +1,67 @@
-# web_view_reference
 
-A new Flutter project.
+# Example of Web View with Flutter dart
+  
+ 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
+* **Creating web view for android and iOS application:**  
+ 
 
-A few resources to get you started if this is your first Flutter project:
+## File stracture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    
+    ├── lib
+        ├── main.dart                  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+  - main.dart: Contains all the files for now.
+ 
+ 
+<p float="left">
+ <img src="snaps/1.png" width="23%" alt="Pending status" /><img src="snaps/2.png" width="23%" alt="Demo of Received status" /></p>
+
+ 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:abdulawalarif/web_view_with_flutter.git
+```
+
+Go to the project directory
+
+```bash
+  cd web_view_with_flutter
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Connect a physical device or start a virtual device on your machine
+
+```bash
+  flutter run
+```
+
+## Customization Tips
+- Add url: Add new URL for testing and changing the look of this project.
+- Asset Customization: Add some assets file and add configure the file based on your need.
+ 
+## Reporting Bugs or Requesting Features?
+
+If you found an issue or would like to submit an improvement to this project,
+please submit an issue using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created!
+
+ 
+## Author
+
+- [@abdulawalarif](https://github.com/abdulawalarif) 
+  
+ 
+ 
